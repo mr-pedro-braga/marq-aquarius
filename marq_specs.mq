@@ -1,0 +1,47 @@
+#	    __  ___           ____      _       __     __  
+#	   /  |/  /___ ______/ __ \    | |     / /__  / /_ 
+#	  / /|_/ / __ `/ ___/ / / /    | | /| / / _ \/ __ \
+#	 / /  / / /_/ / /  / /_/ /     | |/ |/ /  __/ /_/ /
+#	/_/  /_/\__,_/_/   \___\_\     |__/|__/\___/_.___/ 
+#
+#		MarQ Web Specification
+#			Author: Pedro Braga                      
+
+header:
+    title: [b]MarQ[/b] Specs
+    icon: icon.png
+    description: Pedro Braga's specifications for MarQ, a simple web document language.
+    import:
+        demo_script.gd
+        style:
+            #main
+                size-expand: EXPAND_FILL
+            #sidebar
+                min-size: 200
+            #footer
+                background-colour: 0x000000
+                content-colour: 0xFFFFFF
+#body
+    #content
+        #main
+            [header_1]Welcome to MarQ[/header_1]
+
+            Greetings.
+
+            * [link="1"]What is MarQ?[/link]
+            * [link="2"]Creating your own Web.[/link]
+            * [link="3"]How to write your own website?[/link]
+            * [link="4"]Web Browsing Experience[/link]
+
+            #1
+
+            Welcome to Web3! Or rather, Web0?
+            Well, the idea is to create a modern browser that looks good while feeling quite old school.
+
+            Something in which you can type what you want and share with whomever you want to see.
+
+            It's not for companies or selling things, or advertising, or anything like this. A completely open + customization web network where you can simply share informaiton.
+        #sidebar
+            Welcome
+    #footer
+        Powered by Pedro Braga (C)
