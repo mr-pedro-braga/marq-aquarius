@@ -1,0 +1,9 @@
+{
+  "author": "Pedro Braga",
+  "main_file": "index.mq",
+  "version": "0.0.1",
+  "suggested_features": ["MScript", "GDScript"],
+  "redirects": [
+    {"from": "google", "to": "http://www.google.com/"}
+  ]
+}
